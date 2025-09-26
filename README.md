@@ -69,7 +69,7 @@ Proje Kaggle üzerinde geliştirilmiş ve test edilmiştir. Tüm teknik anlatım
 ---
 
 ## Kaggle Notebook Linki
--https://www.kaggle.com/code/aanstnda/akbankderin-renmebootcamp-dogsvscats-a-anerdem
+-[https://www.kaggle.com/code/aanstnda/akbankderin-renmebootcamp-dogsvscats-a-anerdem](https://www.kaggle.com/code/aanstnda/notebookf0febd2ee0)
 
 ## Kaggle Veri Seti Linki
 https://www.kaggle.com/c/dogs-vs-cats 
