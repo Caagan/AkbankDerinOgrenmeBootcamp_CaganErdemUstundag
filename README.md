@@ -69,8 +69,10 @@ Proje Kaggle üzerinde geliştirilmiş ve test edilmiştir. Tüm teknik anlatım
 ---
 
 ## Kaggle Notebook Linki
-- [Dogs vs Cats CNN Projesi](https://www.kaggle.com/code/goker67/decision-trees-acc-metrics-feature-selection)  
+-https://www.kaggle.com/code/aanstnda/akbankderin-renmebootcamp-dogsvscats-a-anerdem
 
+## Kaggle Veri Seti Linki
+https://www.kaggle.com/c/dogs-vs-cats 
 ---
 
 **Not:** Tüm teknik açıklamalar ve kodlar notebook hücrelerinde mevcuttur. Bu README, projenin özetini ve sonuçlarını paylaşmak amacıyla hazırlanmıştır.  
