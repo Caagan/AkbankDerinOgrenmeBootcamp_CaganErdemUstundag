@@ -73,7 +73,7 @@ Gerçek Zamanlı Dağıtım (Deployment): Eğitilen model, bir Streamlit veya Fl
 ---
 
 ## Kaggle Notebook Linki
--[https://www.kaggle.com/code/aanstnda/akbankderin-renmebootcamp-dogsvscats-a-anerdem](https://www.kaggle.com/code/aanstnda/notebookf0febd2ee0)
+-https://www.kaggle.com/code/aanstnda/akbankderinogrenmebootcamp-caganerdemustundag
 
 ## Kaggle Veri Seti Linki
 https://www.kaggle.com/c/dogs-vs-cats 
